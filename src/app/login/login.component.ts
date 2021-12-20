@@ -2,6 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute, Router } from '@angular/router';             // agregar estas lineas para que puedas usar route 
 
 
+
 @Component({
   selector: 'app-login',
   templateUrl: './login.component.html',
